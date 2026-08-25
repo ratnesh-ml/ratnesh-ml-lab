@@ -4,7 +4,7 @@
 
 I built this small visual index because a recruiter should be able to understand my project direction before opening thirteen tabs. It is the front door to my GitHub portfolio: a quiet, browser-first shelf for the systems I am building while studying B.Tech Artificial Intelligence and Machine Learning at IIST Indore.
 
-The showcase currently contains **eleven** cards across document intelligence, data-centric computer vision, MLOps, automation, and interactive decision tools. The source repositories remain the evidence; this site is an easier way to find them.
+The showcase currently contains **twelve** cards across document intelligence, data-centric computer vision, MLOps, automation, interactive decision tools, and learning foundations. The source repositories remain the evidence; this site is an easier way to find them.
 
 ## What is in the lab
 
@@ -21,6 +21,7 @@ The showcase currently contains **eleven** cards across document intelligence, d
 | Model Card API | FastAPI contracts, model metadata, and explanations | [Repository](https://github.com/ratnesh-ml/model-card-api) |
 | Solar Ops Planner | Explainable first-pass rooftop-solar scenarios | [Repository](https://github.com/ratnesh-ml/solar-ops-planner) · [Live demo](https://solar-ops-planner-ratnezhsingh-6317.vercel.app) |
 | Model Release Radar | Synthetic model-release discussion gates | [Repository](https://github.com/ratnesh-ml/model-release-radar) · [Live demo](https://model-release-radar-ratnezhsingh-6317.vercel.app) |
+| CS Foundations → Python → ML | Original notes and tested practice labs on problem solving, Python quality, and ML evaluation | [Repository](https://github.com/ratnesh-ml/cs50-ml-learning-journey) |
 
 ## Run the showcase locally
 
